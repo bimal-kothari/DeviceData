@@ -1,0 +1,47 @@
+[
+  {
+    "companyName": "Foo1",
+    "deviceId": 1,
+    "deviceName": "ABC-100",
+    "firstReadingDtm": "2020-08-17T10:35:00",
+    "lastReadingDtm": "2020-08-18T10:45:00",
+    "temperatureCount": 6,
+    "averageTemperature": 23.65,
+    "humidityCount": 6,
+    "averageHumdity": 82
+  },
+  {
+    "companyName": "Foo1",
+    "deviceId": 2,
+    "deviceName": "ABC-200",
+    "firstReadingDtm": "2020-08-17T10:35:00",
+    "lastReadingDtm": "2020-08-18T10:45:00",
+    "temperatureCount": 6,
+    "averageTemperature": 23.65,
+    "humidityCount": 6,
+    "averageHumdity": 82
+  },
+  {
+    "companyName": "Foo1",
+    "deviceId": 1,
+    "deviceName": "XYZ-100",
+    "firstReadingDtm": "2020-08-18T10:35:00",
+    "lastReadingDtm": "2020-08-19T10:45:00",
+    "temperatureCount": 6,
+    "averageTemperature": 38.15,
+    "humidityCount": 6,
+    "averageHumdity": 92
+  },
+  {
+    "companyName": "Foo1",
+    "deviceId": 2,
+    "deviceName": "XYZ-200",
+    "firstReadingDtm": "2020-08-18T10:35:00",
+    "lastReadingDtm": "2020-08-19T10:45:00",
+    "temperatureCount": 6,
+    "averageTemperature": 38.15,
+    "humidityCount": 6,
+    "averageHumdity": 92
+  }
+]
+
